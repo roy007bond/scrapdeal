@@ -1,0 +1,56 @@
+@media screen and (max-width: 400px) {
+  #features {
+    padding: 20px;
+    width: 111%;
+  }
+  #about,
+  #services,
+  #testimonials,
+  #team,
+  #contact,
+  #footer {
+    width: 111%;
+  }
+
+  #portfolio {
+    width: 110%;
+  }
+}
+.options-container {
+  text-align: center;
+  padding: 60px 20px;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to bottom right, #e0f7fa, #f1f8e9);
+  min-height: 100vh;
+}
+
+.options-container h1 {
+  font-size: 36px;
+  color: #2e7d32;
+  margin-bottom: 40px;
+  font-weight: bold;
+}
+
+.button-group {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.button-group button {
+  padding: 18px 36px;
+  font-size: 20px;
+  border-radius: 16px;
+  border: none;
+  background-color: #43a047;
+  color: white;
+  cursor: pointer;
+  transition: transform 0.3s ease, background-color 0.3s;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.button-group button:hover {
+  transform: scale(1.05);
+  background-color: #2e7d32;
+}

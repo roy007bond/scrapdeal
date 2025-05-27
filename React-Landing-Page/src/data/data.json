@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "ScrapDeal: Your Scrap Partner",
+    "paragraph": "Welcome to ScrapDeal – your smart solution for selling scrap effortlessly! Whether it’s paper, plastic, or metal, we connect you with trusted dealers, offer the best rates, and handle pickups right from your doorstep. Turn your waste into cash with just a few clicks!"
+  },
+  "About": {
+    "paragraph": "At ScrapDeal, we believe in a cleaner, greener future by making scrap collection easy, transparent, and rewarding. Whether you’re a household looking to dispose of old newspapers, plastic, and metal, or a business with bulk scrap materials, we’re here to help. With just a few clicks, you can schedule a pickup, check live scrap rates, and get paid instantly — all from the comfort of your home.",
+    "Why": [
+      "Eco-Friendly : Contribute to a cleaner and greener planet.",
+      "Best Rates : Get fair, real-time prices for your scrap.",
+      "Doorstep Pickup : We come to your location, hassle-free.",
+      "Quick & Easy : Book a pickup in just a few clicks."
+    ],
+    "Why2": [
+      "Trusted Dealers : We work only with verified scrap buyers.",
+      "Secure Payments : Fast, safe, and transparent transactions.",
+      "Upload & Sell : Share scrap images, get instant quotes.",
+      "Track Your Deals : Keep a record of your scrap sales anytime."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Scrap colection",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Scrap management",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Scrap management",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Scrap transportation",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Metal Scrap",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Easy to use Website service", 
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Scrap Segregation",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Products made from recycled plastic",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Recycle plastic bag",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+"Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Door to Door Scrap Pickup",
+      "text": "We provide hassle-free, eco-friendly scrap collection right at your doorstep. Schedule a pickup"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Packaging Industry Scrap",
+      "text": "Efficient collection of cardboard, plastic wraps, and packaging waste from factories, warehouses, and logistics hubs"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Construction Site Scrap",
+      "text": "Professional removal of metal, concrete debris, wood, and other construction waste"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "IT Companies Scrap",
+      "text": "Secure and certified disposal of old computers, servers, cables, and electronic waste."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "College Institution Scrap",
+      "text": "Paper, lab waste, furniture, and e-waste collection from schools, colleges, and offices."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Printing Press Scrap",
+      "text": "Specialized collection of paper offcuts, misprints, ink cartridges, and aluminum plates"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Their scrap pickup service has saved us so much space and hassle",
+      "name": "Rahul Sharma"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "We rely on them for debris removal after every project. They’re punctual, professional, and recycle 90% of the waste",
+       "name": "Priya Patel"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Their e-waste disposal is secure and compliant. They even provided data destruction certificates for our old servers",
+      "name": "Vikram Mehta"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "They buy our misprints and paper scraps at fair rates.",
+      "name": "Sanjay Malhotra"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "Our campus is now cleaner thanks to their regular paper and lab waste pickups. The students appreciate the eco-friendly initiative!",
+      "name": "Dr. Ananya Joshi"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "We generate tons of waste daily, and their scrap pickup team has been a game-changer!",
+      "name": "Aditya Nair"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Rohit Roy",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Yash Gupta",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Utkarsh Naman",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Riti Kant Juhi",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Sudarsana Apartment,4th floor,Maheshbithan,kolkata",
+    "phone": "+91 7603004950",
+    "email": "kantjuhi04@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "www.youtube.com/@RITIKANTJUHI"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Door to Door Pickup",
+      "text": "We provide door to door pickup service for our customers."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Special Waste",
+      "text": "We accept special waste collection at many locations."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Construction Site Scrap",
+      "text": "PVC Pipe Scrap, All kind of Metal Scrap, Waste Kraft, GI Pipe cut pieces, Used Copper / Aluminum Wires etc."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "IT Companies Scrap",
+      "text": "Old Monitors, CPUs, Printers, Telephone, Servers, UPS and many more."
+    }
+  ]
+}
